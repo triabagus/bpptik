@@ -1,0 +1,5 @@
+Nama Mahasiswa :user
+Nilai UTS :100
+Nilai UAS :50
+Nilai Tugas :90
+Persentase Kehadiran :90
